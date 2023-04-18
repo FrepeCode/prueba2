@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "se",
+      "nombre": "dd",
+      "telefono": "22",
+      "id": 1
+    },
+    {
+      "email": "sebas@frepe.com",
+      "nombre": "Frepe",
+      "telefono": "3456578009",
+      "id": 2
+    },
+    {
+      "email": "hola",
+      "nombre": "ehehe",
+      "telefono": "356677",
+      "id": 3
+    },
+    {
+      "email": "claudia",
+      "nombre": "claudia",
+      "telefono": "445566666",
+      "id": 4
+    }
+  ]
+}
